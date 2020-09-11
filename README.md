@@ -1,5 +1,5 @@
 ### Anderson O. Santana 👋
-![Linkedin Badge](https://img.shields.io/badge/-Luke%20Morales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-santana-04722361/)](https://www.linkedin.com/in/anderson-santana-04722361/)
+
 <!--
 **andersonsantan/andersonsantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
