@@ -1,4 +1,15 @@
-### Anderson Santana 👋
+## Anderson Santana🚀
+
+### 🌱 I’m currently learning
+1. Node JS
+2. React e React Native
+3. MongoDB
+
+### Technologies summary📌
+
+<a href="https://sourcerer.io/andersonsantan"><img src="https://img.shields.io/badge/JavaScript-4%20commits-orange.svg" alt=""></a> 🦏 
+
+<a href="https://sourcerer.io/andersonsantan"><img src="https://img.shields.io/badge/HTML-4%20commits-orange.svg" alt=""></a> 📝
 
 <!--
 **andersonsantan/andersonsantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
