@@ -1,9 +1,9 @@
 ## Anderson Santana🚀
 
 ### 🌱 I’m currently learning
-1. Node JS
-2. React e React Native
-3. MongoDB
+1. PHP
+2. Bootstrap
+3. MySQL
 
 ### Technologies summary📌
 
