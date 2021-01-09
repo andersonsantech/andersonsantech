@@ -8,11 +8,7 @@
 5. Java Script
 6. Angular
 
-### Technologies summary📌
 
-<a href="https://sourcerer.io/andersonsantan"><img src="https://img.shields.io/badge/JavaScript-4%20commits-orange.svg" alt=""></a> 🦏 
-
-<a href="https://sourcerer.io/andersonsantan"><img src="https://img.shields.io/badge/HTML-4%20commits-orange.svg" alt=""></a> 📝
 
 <!--
 **andersonsantan/andersonsantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
