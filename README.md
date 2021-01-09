@@ -6,7 +6,7 @@
 3. MySQL
 4. SQL
 5. Java Script
-6. Abgular
+6. Angular
 
 ### Technologies summary📌
 
