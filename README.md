@@ -1,9 +1,12 @@
 ## Anderson Santana🚀
 
 ### 🌱 I’m currently learning
-1. PHP
-2. Bootstrap
+1. Java
+2. Spring Boot
 3. MySQL
+4. SQL
+5. Java Script
+6. Abgular
 
 ### Technologies summary📌
 
