@@ -1,12 +1,17 @@
-## Anderson Santana🚀
+# Anderson Santana 🚀
 
-### 🌱 I’m currently learning
-1. Java
-2. Spring Boot
-3. MySQL
-4. SQL
-5. Java Script
-6. Angular
+### 🌱 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Java | Back-And.
+
+## 🌱 Nesse momento estou estudando Java e seu ecossistema.
+  Tecnologias:
+    1. Java
+    2. Spring Boot e Spring MVC
+    3. MySQL
+    4. PostgreSQL
+    5. Java Script
+    6. Materializer (CSS)
+    7- Thymeleaf
+    8- Html5
 
 
 
