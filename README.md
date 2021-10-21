@@ -1,17 +1,17 @@
 # Anderson Santana 🚀
 
-### 🌱 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Java | Back-And.
+### 💻 Software Developer at @ZupInnovation | Java | Kotlin | Spring | Micronaut
 
-## 🌱 Nesse momento estou estudando Java e seu ecossistema.
+## 🚀 I’m currently working on:
   Tecnologias:
     1. Java
-    2. Spring Boot e Spring MVC
+    2. Kotlin
     3. MySQL
     4. PostgreSQL
     5. Java Script
-    6. Materializer (CSS)
-    7- Thymeleaf
-    8- Html5
+    6. Spring Framwork
+    7- Micronaut
+    8- gRPC
 
 
 
