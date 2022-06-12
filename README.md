@@ -1,6 +1,6 @@
 # Anderson Santana 🚀
 
-### 💻 Software Developer at @ZupInnovation | Java | Kotlin | Spring | Micronaut
+### 💻 Software Developer at @ZupIT | Java | Kotlin | Spring | Micronaut
 
 ## 🚀 I’m currently working on:
   Tecnologias:
