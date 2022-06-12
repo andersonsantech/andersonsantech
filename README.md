@@ -13,6 +13,12 @@
     7- Micronaut
     8- gRPC
     9- GraphQL
+    10- Apache Kafka
+    11- JUnit
+    12- Spock Framwork
+    13- Cypress
+    14- REST API
+
 
 ## ⚡ Other repository of codes 🚀
   https://github.com/andersonzup/
